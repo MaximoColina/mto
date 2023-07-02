@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color:rgb(226, 226, 226);
+/*    background-image: url(../slide_13.jpg) ;
+    background-size: 100vw 100vh;
+    background-attachment: fixed; */
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+
+.menu {
+    margin: o auto;
+    background: #545b94;
+    border-bottom: 2px solid #ffffff;
+    border-top: 2px solid #ffffff;    
+}
+
+
+@media screen and(min-width:52em) { /*desktop*/
+    .menu{
+        max-width: 52em;  /*tablet*/
+    }   
+    h1 {
+        font-size: 40px;
+    }
+} /*fin media*/
+
+
+.menu-principal ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    /* background: #1a733d; */
+    display: flex; /*flex*/
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.menu-principal li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: .6em 1em;
+}
+
+
+.menu-principal li a:hover {
+    background:#cfcd2a;
+}
+
+
+.menu-principal li {
+    flex: 1 0 auto;
+    text-align: center;
+}
+
+
+h1 {
+    margin: 1em;
+    text-align: center;
+    color:black;
+    font-size: 26px;
+}
+
+h2 {
+    margin: 1em;
+    text-align: center;
+    color:black;
+    font-size: 22px;
+}
+
+.histomaq {
+margin-left: 10px;
+margin-right: 5px;
+}
+
+.histomaq p{
+    padding: 10px;
+font-size: 18px;
+color:black;
+}
+
+footer {
+	width: 100%;
+	margin: 0;
+	padding:auto;
+	text-align: center;
+}
