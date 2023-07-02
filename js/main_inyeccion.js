@@ -3,7 +3,7 @@ let nheader=`
             <section class="menu-menu">
                 <nav class="menu-principal">
                     <ul>
-                        <li><a href="../Index.html">Inicio</a></li>
+                        <li><a href="../index.html">Inicio</a></li>
                         <li><a href="M21.html">M21</a></li>
                         <li><a href="M23.html">M23</a></li>
                         <li><a href="M26.html">M26</a></li>
