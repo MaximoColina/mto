@@ -8,9 +8,9 @@ let nheader=`
             <li><a href="R8 Lonking.html">R8 Lonking</a></li>
             <li><a href="R10 Hyster.html">R10 Hyster</a></li>
             <li><a href="R11 Wecan.html">R11 Wecan</a></li>
-            <li><a href="Rx Hyster nuevo.html">Rx Hyster nuevo</a></li>
-            <li><a href="Rx Hyster nuevon1.html">Rx Hyster nuevon1</a></li>
-            <li><a href="Rx Hyster nuevon2.html">Rx Hyster nuevon2</a></li>			
+            <li><a href="R13 Hyster.html">R13 Hyster</a></li>						
+            <li><a href="R14 Hyster.html">R14 Hyster</a></li>
+            <li><a href="R15 Hyster.html">R15 Hyster</a></li>
         </ul>
     </nav>
 </section>    
