@@ -97,5 +97,5 @@ document.querySelector("header").innerHTML=nheader
 let nfooter= `Mx&copy;Copyright-2023`
 document.querySelector("footer").innerHTML=nfooter
 
-let nh2= `INYECCION`
+let nh2= `INYECCIÓN`
 document.querySelector("h2").innerHTML=nh2

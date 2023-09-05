@@ -4,9 +4,9 @@ let nheader=`
     <nav class="menu-principal">
         <ul>
             <li><a href="index.html">Inicio</a></li>
-            <li><a href="./inyeccion/M21.html">Inyeccion</a></li>
+            <li><a href="./inyeccion/M21.html">Inyección</a></li>
             <li><a href="./autoelevadores/R7 Lonking.html">Autoelevadores</a></li>
-            <li><a href="./perifericos/Estrusora.html">Perifericos</a></li>
+            <li><a href="./perifericos/Estrusora.html">Periféricos</a></li>
         </ul>
     </nav>
 </section>    
