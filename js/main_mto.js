@@ -9,12 +9,12 @@ let nheader=`
             <li><a href="./perifericos/Estrusora.html">Periféricos</a></li>
         </ul>
     </nav>
-</section>    
+</section>
 </div>
 `
 document.querySelector("header").innerHTML=nheader
 
-let nfooter= `Mx&copy;Copyright-2023`
+let nfooter= `Mx &copy; 2023`
 document.querySelector("footer").innerHTML=nfooter
 
 let nh2= ` `

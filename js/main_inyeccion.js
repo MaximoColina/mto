@@ -15,10 +15,10 @@ let nheader=`
                         <li><a href="M202.html">M202</a></li>
                         <li><a href="M203.html">M203</a></li>
                         <li><a href="M204.html">M204</a></li>
-                        <li><a href="M205.html">M205</a></li> 
-                        <li><a href="M301.html">M301</a></li>  
-                        <li><a href="M302.html">M302</a></li>                       
-                        <li><a href="M303.html">M303</a></li>                       
+                        <li><a href="M205.html">M205</a></li>
+                        <li><a href="M301.html">M301</a></li>
+                        <li><a href="M302.html">M302</a></li>
+                        <li><a href="M303.html">M303</a></li>
                         <li><a href="M304.html">M304</a></li>
                         <li><a href="M305.html">M305</a></li>
                         <li><a href="M306.html">M306</a></li>
@@ -85,16 +85,16 @@ let nheader=`
                         <li><a href="M708.html">M708</a></li>
                         <li><a href="M709.html">M709</a></li>
                         <li><a href="M710.html">M710</a></li>
+                        <li><a href="MIG-IZQ.html">MIG-IZQ</a></li>
 	                    <li><a href="MIG-DER.html">MIG-DER</a></li>
-                        <li><a href="MIG-IZQ.html">MIG-IZQ</a></li>							
                     </ul>
                 </nav>
-            </section>    
+            </section>
             </div>
 `
 document.querySelector("header").innerHTML=nheader
 
-let nfooter= `Mx&copy;Copyright-2023`
+let nfooter= `Mx &copy; 2023`
 document.querySelector("footer").innerHTML=nfooter
 
 let nh2= `INYECCIÓN`
