@@ -11,6 +11,7 @@ let nheader=`
             <li><a href="R13 Hyster.html">R13 Hyster</a></li>
             <li><a href="R14 Hyster.html">R14 Hyster</a></li>
             <li><a href="R15 Hyster.html">R15 Hyster</a></li>
+            <li><a href="Rxx Hyster.html">Rxx Hyster</a></li>			
         </ul>
     </nav>
 </section>
